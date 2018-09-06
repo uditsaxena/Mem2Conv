@@ -1,0 +1,10 @@
+This folder should contain the CSQA_v9 data obtained from "https://amritasaha1812.github.io/CSQA/download/"
+
+The format of the folder should be :
+ data:
+ 	CSQA_v9:
+ 		qtype_stats
+ 		relation_stats
+ 		test
+ 		train
+ 		valid
